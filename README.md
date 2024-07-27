@@ -1,7 +1,7 @@
 # Little lemon Restaurant 
 Capstone project for the Meta Front-End Developer Professional Certificate
 
-#Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
 ```npm install```
